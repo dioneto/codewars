@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\codewars\obj\Debug\netcoreapp3.0\codewars.dev.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\codewars\obj\Debug\netcoreapp3.0\codewars.dev.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\codewars\dev\bin\Debug\netcoreapp3.0\codewars.dev.exe
+C:\Users\Carlos\source\repos\codewars\dev\bin\Debug\netcoreapp3.0\codewars.dev.deps.json
+C:\Users\Carlos\source\repos\codewars\dev\bin\Debug\netcoreapp3.0\codewars.dev.runtimeconfig.json
+C:\Users\Carlos\source\repos\codewars\dev\bin\Debug\netcoreapp3.0\codewars.dev.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\codewars\dev\bin\Debug\netcoreapp3.0\codewars.dev.dll
+C:\Users\Carlos\source\repos\codewars\dev\bin\Debug\netcoreapp3.0\codewars.dev.pdb
+C:\Users\Carlos\source\repos\codewars\dev\obj\Debug\netcoreapp3.0\codewars.dev.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\codewars\dev\obj\Debug\netcoreapp3.0\codewars.dev.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\codewars\dev\obj\Debug\netcoreapp3.0\codewars.dev.dll
+C:\Users\Carlos\source\repos\codewars\dev\obj\Debug\netcoreapp3.0\codewars.dev.pdb
+C:\Users\Carlos\source\repos\codewars\dev\obj\Debug\netcoreapp3.0\codewars.dev.csprojAssemblyReference.cache
