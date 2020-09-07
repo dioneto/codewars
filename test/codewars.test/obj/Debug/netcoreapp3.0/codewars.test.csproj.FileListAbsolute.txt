@@ -93,10 +93,10 @@ C:\Users\Carlos\source\repos\codewars\test\codewars.test\bin\Debug\netcoreapp3.0
 C:\Users\Carlos\source\repos\codewars\test\codewars.test\obj\Debug\netcoreapp3.0\codewars.test.csproj.CopyComplete
 C:\Users\Carlos\source\repos\codewars\test\codewars.test\obj\Debug\netcoreapp3.0\codewars.test.dll
 C:\Users\Carlos\source\repos\codewars\test\codewars.test\obj\Debug\netcoreapp3.0\codewars.test.pdb
+E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\codewars.dev.exe
 E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
 E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
 E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
-E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\codewars.dev.exe
 E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\codewars.test.deps.json
 E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\codewars.test.runtimeconfig.json
 E:\git\codewars\test\codewars.test\bin\Debug\netcoreapp3.0\codewars.test.runtimeconfig.dev.json
